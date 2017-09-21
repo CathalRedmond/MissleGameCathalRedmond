@@ -1,0 +1,8 @@
+﻿  Missle.cpp
+c:\users\c00214190\desktop\gameplay programmingk\text based missile gameo\text based missile game\missle.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c00214190\desktop\gameplay programmingk\text based missile gameo\text based missile game\missle.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c00214190\desktop\gameplay programmingk\text based missile gameo\text based missile game\missle.cpp(139): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00214190\desktop\gameplay programmingk\text based missile gameo\text based missile game\missle.cpp(175): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+c:\users\c00214190\desktop\gameplay programmingk\text based missile gameo\text based missile game\missle.cpp(276): warning C4553: '==': operator has no effect; did you intend '='?
+  Text Based Missile Game.vcxproj -> C:\Users\c00214190\Desktop\Gameplay Programmingk\Text Based Missile Gameo\Debug\Text Based Missile Game.exe
+  Text Based Missile Game.vcxproj -> C:\Users\c00214190\Desktop\Gameplay Programmingk\Text Based Missile Gameo\Debug\Text Based Missile Game.pdb (Partial PDB)
